@@ -1,6 +1,6 @@
 # expenses_app
 
-A new Flutter project.
+A simple flutter app which manages weekly expenditure. Database is not implemented yet, I'll be adding it soon.
 
 ## Getting Started
 
